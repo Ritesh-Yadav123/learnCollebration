@@ -4,3 +4,6 @@
 body{
     background-color: aqua;
 }
+body{
+    border: 2px solid pink;
+}
